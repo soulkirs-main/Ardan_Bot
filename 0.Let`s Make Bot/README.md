@@ -10,5 +10,5 @@
 
 
 > Chapter 1, New Application
- 먼저 (디스코드 개발자 포탈(https://discord.com/developers/applications))에 들어가주세요!
+ 먼저 (디스코드 개발자 포탈)[https://discord.com/developers/applications]에 들어가주세요!
  
