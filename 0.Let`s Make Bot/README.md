@@ -16,8 +16,8 @@
 
 > 봇을 만들려면 우선 봇을 생성하여야됩니다!
 > New Application을 눌러 봇의 이름을 정하시고 Create를 눌러주세요!
-![addbot](https://user-images.githubusercontent.com/69516541/106755019-fbb14080-6670-11eb-8455-2774d6870724.PNG)
+![Create](https://user-images.githubusercontent.com/69516541/106755028-fce26d80-6670-11eb-92c7-2602a1517d0a.PNG)
 >> Create를 하셨다면, 카테고리중 Bot 을 눌러주세요.
 >>Add Bot 버튼을 눌러주세요.
-![Create](https://user-images.githubusercontent.com/69516541/106755028-fce26d80-6670-11eb-92c7-2602a1517d0a.PNG)
+![addbot](https://user-images.githubusercontent.com/69516541/106755019-fbb14080-6670-11eb-8455-2774d6870724.PNG)
 
