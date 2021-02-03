@@ -9,6 +9,16 @@
 # Then Let`s Make Discord Bot! 이제 디스코드 봇을 만들어봅시다!
 
 
-> Chapter 1, New Application
- 먼저 [디스코드 개발자 포탈](https://discord.com/developers/applications)에 들어가주세요!
- 
+## Chapter 1. New Application
+ 먼저 [디스코드 개발자 포럼](https://discord.com/developers/applications)에 들어가주세요!
+
+### 봇 생성하기
+
+> 봇을 만들려면 우선 봇을 생성하여야됩니다!
+> New Application을 눌러 봇의 이름을 정하시고 Create를 눌러주세요!
+<img src="./img/Create.png">
+>> Create를 하셨다면, 카테고리중 Bot 을 눌러주세요.
+<img src="./img/Bot.png">
+>Add Bot 버튼을 눌러주세요.
+<img src="./img/addbot.png">
+
